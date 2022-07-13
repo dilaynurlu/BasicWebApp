@@ -17,5 +17,6 @@ public class QueryProcessor {
         } else { // TODO extend the programm here
             return "I dont have a name";
         }
+        //gfgfg
     }
 }
